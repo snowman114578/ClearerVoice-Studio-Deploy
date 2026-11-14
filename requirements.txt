@@ -1,4 +1,4 @@
-torch>=2.0.1
+torch==2.0.1+cpu
 pesq==0.0.4
 pystoi==0.3.3
 scipy>=1.10.1
@@ -26,7 +26,6 @@ rotary-embedding-torch==0.8.3
 python_speech_features==0.6
 typeguard==4.3.0
 scenedetect
-torch==2.0.1
 torchvision==0.15.2
 huggingface-hub>=0.26.2
 gdown==5.2.0
