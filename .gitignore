@@ -2,3 +2,9 @@
 **/.DS_Store
 **/._*
 **/.ipynb_checkpoints/
+checkpoints/
+*.pth
+*.pt
+*.bin
+*.wav
+__pycache__/
